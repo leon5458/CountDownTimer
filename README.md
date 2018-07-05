@@ -4,7 +4,7 @@
 
 ###效果图 如下
 
-![icon](https://github.com/leon5458/CountDownTimer/tree/master/app/img)
+![icon](https://github.com/leon5458/CountDownTimer/blob/master/app/img/11.png)
 
 
 
